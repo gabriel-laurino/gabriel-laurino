@@ -1,13 +1,140 @@
-# 💫 About Me:
-## About Me<br><br>💻  Full Stack Junior Developer focused on building practical solutions, automation tools, and system integrations.<br><br>🔭  Currently working on desktop tools, webhook integrations, and development projects related to enterprise identity and access workflows.<br><br>🌱  Learning more about Java, Python, C#, machine learning, and connector development for enterprise platforms.<br><br>🤝  Looking to collaborate on automation, developer tools, integrations, and real-world problem-solving projects.<br><br>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:0891b2,100:14b8a6&text=Gabriel%20Laurino&fontColor=ffffff&fontSize=42&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Junior%20Developer%20%7C%20Automation%20%7C%20Integrations%20%7C%20AI&descAlignY=58" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-laurino) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gabriel_laurino@outlook.com) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=14B8A6&center=true&vCenter=true&width=1000&lines=Building+practical+solutions+with+code;Automation+%7C+Desktop+Tools+%7C+Integrations+%7C+AI-driven+projects;Python+%7C+Java+%7C+C%23+%7C+Web+Development)](https://git.io/typing-svg)
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=gabriel-laurino&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=gabriel-laurino&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-laurino&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-laurino)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel_laurino@outlook.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabriel-laurino)
+[![Followers](https://img.shields.io/github/followers/gabriel-laurino?style=for-the-badge&logo=github&label=Followers&color=0891b2)](https://github.com/gabriel-laurino?tab=followers)
+![](https://komarev.com/ghpvc/?username=gabriel-laurino&style=for-the-badge&color=0891b2)
+
+</div>
+
+---
+
+## 💫 About Me
+
+💻 Full Stack Junior Developer focused on building practical solutions, automation tools, and system integrations.
+
+🔭 Currently working on desktop tools, webhook integrations, and development projects related to enterprise identity and access workflows.
+
+🌱 Currently learning more about Java, Python, C#, machine learning, and connector development for enterprise platforms.
+
+🤝 Looking to collaborate on automation, developer tools, integrations, and real-world problem-solving projects.
+
+💬 Ask me about Python, Java, C#, Windows automation, webhooks, and software development.
+
+📍 Based in Curitiba - Brasil
+
+⚡ I enjoy transforming repetitive manual processes into structured, maintainable, and reusable solutions.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-6A1B9A?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### Frameworks & Tools
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-161B22?style=for-the-badge&logo=flask&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+### AI / Data
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gabriel-laurino&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=14B8A6&icon_color=14B8A6&text_color=C9D1D9" />
+  <img height="170" src="https://streak-stats.demolab.com?user=gabriel-laurino&theme=tokyonight&hide_border=true&background=0D1117&ring=14B8A6&fire=14B8A6&currStreakLabel=14B8A6" />
+</div>
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-laurino&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=14B8A6&text_color=C9D1D9" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gabriel-laurino&bg_color=0D1117&color=14B8A6&line=0891B2&point=FFFFFF&area=true&hide_border=true" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=gabriel-laurino&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=12" />
+</div>
+
+---
+
+## 🔝 Top Contributed Repo
+
+<div align="center">
+  <img width="100%" src="https://github-contributor-stats.vercel.app/api?username=gabriel-laurino&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+</div>
+
+---
+
+## 📌 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/gabriel-laurino/Brightness-Control-Application">
+    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel-laurino&repo=Brightness-Control-Application&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=14B8A6&text_color=C9D1D9&icon_color=14B8A6" />
+  </a>
+  <a href="https://github.com/gabriel-laurino/Ngrok_WebhookApp">
+    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel-laurino&repo=Ngrok_WebhookApp&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=14B8A6&text_color=C9D1D9&icon_color=14B8A6" />
+  </a>
+</div>
+
+---
+
+## 🌐 Connect with Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/gabriel-laurino" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:gabriel_laurino@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+
+### ✨ Profile Quote
+`Turning repetitive tasks into maintainable and scalable solutions.`
+
+</div>
+
+<!--
+## 🐍 Contribution Snake
+Para ativar esta animação, crie um GitHub Action que gere os arquivos em:
+output/github-contribution-grid-snake.svg
+output/github-contribution-grid-snake-dark.svg
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabriel-laurino/gabriel-laurino/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabriel-laurino/gabriel-laurino/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gabriel-laurino/gabriel-laurino/output/github-contribution-grid-snake.svg" />
+</picture>
+-->
