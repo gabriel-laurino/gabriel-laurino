@@ -24,11 +24,7 @@
 
 🤝 Looking to collaborate on automation, developer tools, integrations, and real-world problem-solving projects.
 
-💬 Ask me about Python, Java, C#, Windows automation, webhooks, and software development.
-
 📍 Based in Curitiba - Brasil
-
-⚡ I enjoy transforming repetitive manual processes into structured, maintainable, and reusable solutions.
 
 ---
 
@@ -126,15 +122,21 @@
 
 </div>
 
-<!--
 ## 🐍 Contribution Snake
-Para ativar esta animação, crie um GitHub Action que gere os arquivos em:
-output/github-contribution-grid-snake.svg
-output/github-contribution-grid-snake-dark.svg
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabriel-laurino/gabriel-laurino/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabriel-laurino/gabriel-laurino/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gabriel-laurino/gabriel-laurino/output/github-contribution-grid-snake.svg" />
-</picture>
--->
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/gabriel-laurino/gabriel-laurino/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/gabriel-laurino/gabriel-laurino/output/github-snake.svg"
+    />
+    <img
+      alt="github contribution snake animation"
+      src="https://raw.githubusercontent.com/gabriel-laurino/gabriel-laurino/output/github-snake.svg"
+    />
+  </picture>
+</div>
