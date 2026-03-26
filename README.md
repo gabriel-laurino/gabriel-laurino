@@ -1,5 +1,5 @@
 # 💫 About Me:
-## About Me<br><br>💻  Full Stack Junior Developer focused on building practical solutions, automation tools, and system integrations.<br><br>🔭  currently working on desktop tools, webhook integrations, and development projects related to enterprise identity and access workflows.<br><br>🌱  currently learning more about Java, Python, C#, machine learning, and connector development for enterprise platforms.<br><br>🤝  looking to collaborate on automation, developer tools, integrations, and real-world problem-solving projects.<br><br>💬 Ask me about Python, Java, C#, Windows automation, webhooks, and software development.<br><br>⚡ Fun fact: I like turning repetitive manual processes into structured and reusable solutions.
+## About Me<br><br>💻  Full Stack Junior Developer focused on building practical solutions, automation tools, and system integrations.<br><br>🔭  Currently working on desktop tools, webhook integrations, and development projects related to enterprise identity and access workflows.<br><br>🌱  Learning more about Java, Python, C#, machine learning, and connector development for enterprise platforms.<br><br>🤝  Looking to collaborate on automation, developer tools, integrations, and real-world problem-solving projects.<br><br>
 
 
 ## 🌐 Socials:
@@ -11,14 +11,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=gabriel-laurino&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=gabriel-laurino&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-laurino&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=gabriel-laurino&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=gabriel-laurino&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=gabriel-laurino&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
