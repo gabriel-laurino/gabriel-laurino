@@ -73,7 +73,7 @@
 
 <br><br>
 
-<img width="55%" src="https://github-readme-stats-weld-nine-88.vercel.app/api/top-langs/?username=gabriel-laurino&layout=compact&langs_count=8&hide_border=true&border_radius=20&theme=tokyonight&bg_color=00000000&title_color=14B8A6&text_color=C9D1D9&custom_title=Most%20Used%20Techs" />
+<img width="45%" src="https://github-readme-stats-weld-nine-88.vercel.app/api/top-langs/?username=gabriel-laurino&layout=compact&langs_count=8&hide_border=true&border_radius=20&theme=tokyonight&bg_color=00000000&title_color=14B8A6&text_color=C9D1D9&custom_title=Most%20Used%20Techs" />
 
 <br><br>
 
@@ -120,7 +120,7 @@
 ## 🌌 3D Contribution Graph
 
 <div align="center">
-  <img width="70%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
+  <img width="75%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
 </div>
 
 ---
