@@ -39,26 +39,14 @@
 
 <div align="center">
 
-<img height="100" src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" />
-<img height="100" src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
-<img height="100" src="https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=9B4DCA" />
-<img height="100" src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img height="100" src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4" />
-<img height="100" src="https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=dotnet&logoColor=512BD4" />
-<img height="100" src="https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=FFFFFF" />
-<img height="100" src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" />
-<img height="100" src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F010032" />
-<img height="100" src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+### Languages & Backend
+[![My Skills](https://skillicons.dev/icons?i=python,java,cs,js,php,dotnet,flask&theme=dark&perline=7)](https://skillicons.dev)
 
-<br>
+### Tools & DevOps
+[![My Skills](https://skillicons.dev/icons?i=docker,git,github,powershell,linux&theme=dark&perline=5)](https://skillicons.dev)
 
-<img height="100" src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
-<img height="100" src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1" />
-<img height="100" src="https://img.shields.io/badge/Oracle-0D1117?style=for-the-badge&logo=oracle&logoColor=F80000" />
-<img height="100" src="https://img.shields.io/badge/PowerShell-0D1117?style=for-the-badge&logo=powershell&logoColor=5391FE" />
-<img height="100" src="https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
-<img height="100" src="https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
-<img height="100" src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624" />
+### Databases & AI
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,tensorflow,pytorch&theme=dark&perline=4)](https://skillicons.dev)
 
 </div>
 
