@@ -39,26 +39,26 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-![C#](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=9B4DCA)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4)
-![.NET](https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=dotnet&logoColor=512BD4)
-![Flask](https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=FFFFFF)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF)
+<img height="40" src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" />
+<img height="40" src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
+<img height="40" src="https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=9B4DCA" />
+<img height="40" src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img height="40" src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4" />
+<img height="40" src="https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=dotnet&logoColor=512BD4" />
+<img height="40" src="https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=FFFFFF" />
+<img height="40" src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" />
+<img height="40" src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" />
+<img height="40" src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" />
 
 <br>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![Oracle](https://img.shields.io/badge/Oracle-0D1117?style=for-the-badge&logo=oracle&logoColor=F80000)
-![PowerShell](https://img.shields.io/badge/PowerShell-0D1117?style=for-the-badge&logo=powershell&logoColor=5391FE)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624)
+<img height="40" src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+<img height="40" src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+<img height="40" src="https://img.shields.io/badge/Oracle-0D1117?style=for-the-badge&logo=oracle&logoColor=F80000" />
+<img height="40" src="https://img.shields.io/badge/PowerShell-0D1117?style=for-the-badge&logo=powershell&logoColor=5391FE" />
+<img height="40" src="https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
+<img height="40" src="https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
+<img height="40" src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624" />
 
 </div>
 
@@ -67,16 +67,18 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats-weld-nine-88.vercel.app/api?username=gabriel-laurino&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=20&theme=tokyonight&bg_color=00000000&title_color=14B8A6&icon_color=14B8A6&text_color=C9D1D9" />
-  <img height="180" src="https://streak-stats.demolab.com?user=gabriel-laurino&theme=tokyonight&hide_border=true&border_radius=20&background=00000000&ring=14B8A6&fire=14B8A6&currStreakLabel=14B8A6" />
-</div>
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats-weld-nine-88.vercel.app/api/top-langs/?username=gabriel-laurino&layout=compact&langs_count=8&hide_border=true&border_radius=20&theme=tokyonight&bg_color=00000000&title_color=14B8A6&text_color=C9D1D9&custom_title=Most%20Used%20Techs" />
-</div>
+<img width="49%" src="https://github-readme-stats-weld-nine-88.vercel.app/api?username=gabriel-laurino&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=20&theme=tokyonight&bg_color=00000000&title_color=14B8A6&icon_color=14B8A6&text_color=C9D1D9" />
+<img width="49%" src="https://streak-stats.demolab.com?user=gabriel-laurino&theme=tokyonight&hide_border=true&border_radius=20&background=00000000&ring=14B8A6&fire=14B8A6&currStreakLabel=14B8A6" />
 
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gabriel-laurino&bg_color=0D1117&color=14B8A6&line=14B8A6&point=7DD3FC&area=true&hide_border=true" />
+<br><br>
+
+<img width="55%" src="https://github-readme-stats-weld-nine-88.vercel.app/api/top-langs/?username=gabriel-laurino&layout=compact&langs_count=8&hide_border=true&border_radius=20&theme=tokyonight&bg_color=00000000&title_color=14B8A6&text_color=C9D1D9&custom_title=Most%20Used%20Techs" />
+
+<br><br>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gabriel-laurino&bg_color=0D1117&color=14B8A6&line=14B8A6&point=7DD3FC&area=true&hide_border=true" />
+
 </div>
 
 ---
@@ -118,7 +120,7 @@
 ## 🌌 3D Contribution Graph
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
+  <img width="70%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
 </div>
 
 ---
