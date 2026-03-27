@@ -39,26 +39,26 @@
 
 <div align="center">
 
-<img height="65" src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" />
-<img height="65" src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
-<img height="65" src="https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=9B4DCA" />
-<img height="65" src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img height="65" src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4" />
-<img height="65" src="https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=dotnet&logoColor=512BD4" />
-<img height="65" src="https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=FFFFFF" />
-<img height="65" src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" />
-<img height="65" src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F06532" />
-<img height="65" src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+<img height="100" src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" />
+<img height="100" src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
+<img height="100" src="https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=9B4DCA" />
+<img height="100" src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img height="100" src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4" />
+<img height="100" src="https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=dotnet&logoColor=512BD4" />
+<img height="100" src="https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=FFFFFF" />
+<img height="100" src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" />
+<img height="100" src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F010032" />
+<img height="100" src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" />
 
 <br>
 
-<img height="65" src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
-<img height="65" src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1" />
-<img height="65" src="https://img.shields.io/badge/Oracle-0D1117?style=for-the-badge&logo=oracle&logoColor=F80000" />
-<img height="65" src="https://img.shields.io/badge/PowerShell-0D1117?style=for-the-badge&logo=powershell&logoColor=5391FE" />
-<img height="65" src="https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
-<img height="65" src="https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
-<img height="65" src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624" />
+<img height="100" src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+<img height="100" src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+<img height="100" src="https://img.shields.io/badge/Oracle-0D1117?style=for-the-badge&logo=oracle&logoColor=F80000" />
+<img height="100" src="https://img.shields.io/badge/PowerShell-0D1117?style=for-the-badge&logo=powershell&logoColor=5391FE" />
+<img height="100" src="https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
+<img height="100" src="https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
+<img height="100" src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624" />
 
 </div>
 
@@ -87,10 +87,10 @@
 
 <div align="center">
   <a href="https://github.com/gabriel-laurino/Brightness-Control-Application">
-    <img height="165" src="https://github-readme-stats-weld-nine-88.vercel.app/api/pin/?username=gabriel-laurino&repo=Brightness-Control-Application&theme=tokyonight&hide_border=true&border_radius=20&bg_color=00000000&title_color=14B8A6&text_color=C9D1D9&icon_color=14B8A6" />
+    <img height="1100" src="https://github-readme-stats-weld-nine-88.vercel.app/api/pin/?username=gabriel-laurino&repo=Brightness-Control-Application&theme=tokyonight&hide_border=true&border_radius=20&bg_color=00000000&title_color=14B8A6&text_color=C9D1D9&icon_color=14B8A6" />
   </a>
   <a href="https://github.com/gabriel-laurino/Ngrok_WebhookApp">
-    <img height="165" src="https://github-readme-stats-weld-nine-88.vercel.app/api/pin/?username=gabriel-laurino&repo=Ngrok_WebhookApp&theme=tokyonight&hide_border=true&border_radius=20&bg_color=00000000&title_color=14B8A6&text_color=C9D1D9&icon_color=14B8A6" />
+    <img height="1100" src="https://github-readme-stats-weld-nine-88.vercel.app/api/pin/?username=gabriel-laurino&repo=Ngrok_WebhookApp&theme=tokyonight&hide_border=true&border_radius=20&bg_color=00000000&title_color=14B8A6&text_color=C9D1D9&icon_color=14B8A6" />
   </a>
 </div>
 
