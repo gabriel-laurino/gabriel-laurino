@@ -43,7 +43,7 @@
 [![My Skills](https://skillicons.dev/icons?i=python,java,cs,js,php,dotnet,flask&theme=dark&perline=7)](https://skillicons.dev)
 
 ### Tools & DevOps
-[![My Skills](https://skillicons.dev/icons?i=docker,git,github,powershell,linux&theme=dark&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,git,github,powershell,linux,oracle&theme=dark&perline=5)](https://skillicons.dev)
 
 ### Databases & AI
 [![My Skills](https://skillicons.dev/icons?i=postgres,mysql,tensorflow,pytorch&theme=dark&perline=4)](https://skillicons.dev)
