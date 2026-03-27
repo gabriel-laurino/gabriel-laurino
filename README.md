@@ -39,12 +39,26 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,cs,js,php,dotnet,flask,docker,git,github,postgres,mysql,tensorflow,pytorch,linux&theme=dark" />
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![C#](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=9B4DCA)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4)
+![.NET](https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=dotnet&logoColor=512BD4)
+![Flask](https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=FFFFFF)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF)
 
-<br><br>
+<br>
 
-<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![Oracle](https://img.shields.io/badge/Oracle-0D1117?style=for-the-badge&logo=oracle&logoColor=F80000)
+![PowerShell](https://img.shields.io/badge/PowerShell-0D1117?style=for-the-badge&logo=powershell&logoColor=5391FE)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624)
 
 </div>
 
