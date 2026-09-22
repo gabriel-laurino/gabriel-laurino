@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 290" role="img" aria-labelledby="t d">
+  <title id="t">Brightness Control Application</title>
+  <desc id="d">Dark desktop interface with cyan brightness controls and a warm sun.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0a1827"/><stop offset="1" stop-color="#102837"/></linearGradient>
+    <linearGradient id="bar"><stop stop-color="#58dbed"/><stop offset="1" stop-color="#9af6c5"/></linearGradient>
+    <radialGradient id="sun"><stop stop-color="#ffdc88"/><stop offset=".56" stop-color="#ffbd76" stop-opacity=".7"/><stop offset="1" stop-color="#ffbd76" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="600" height="290" rx="20" fill="url(#bg)"/>
+  <circle cx="504" cy="58" r="125" fill="url(#sun)" opacity=".68"/>
+  <path d="M0 225C115 188 197 260 304 222S507 182 600 235" fill="none" stroke="#67dfea" stroke-opacity=".18" stroke-width="2"/>
+  <g transform="translate(28 27)">
+    <rect width="354" height="235" rx="17" fill="#071722" stroke="#6edfea" stroke-opacity=".3"/>
+    <rect width="354" height="34" rx="17" fill="#163041"/><path d="M0 17V34H354V17" fill="#163041"/>
+    <circle cx="22" cy="17" r="4" fill="#ff7779"/><circle cx="37" cy="17" r="4" fill="#eec675"/><circle cx="52" cy="17" r="4" fill="#74dbab"/>
+    <text x="20" y="68" fill="#eaf7fa" font-family="Arial,sans-serif" font-size="17" font-weight="700">Display brightness</text>
+    <text x="20" y="91" fill="#829faa" font-family="Arial,sans-serif" font-size="10" letter-spacing="1">HDR DISPLAY  /  SDR CONTENT</text>
+    <text x="20" y="123" fill="#c4d9e0" font-family="Arial,sans-serif" font-size="11">Morning</text>
+    <rect x="105" y="116" width="211" height="8" rx="4" fill="#26424e"/><rect x="105" y="116" width="141" height="8" rx="4" fill="url(#bar)"/><circle cx="246" cy="120" r="8" fill="#d9fff7"/>
+    <text x="20" y="157" fill="#c4d9e0" font-family="Arial,sans-serif" font-size="11">Evening</text>
+    <rect x="105" y="150" width="211" height="8" rx="4" fill="#26424e"/><rect x="105" y="150" width="92" height="8" rx="4" fill="url(#bar)"/><circle cx="197" cy="154" r="8" fill="#d9fff7"/>
+    <text x="20" y="191" fill="#c4d9e0" font-family="Arial,sans-serif" font-size="11">Night</text>
+    <rect x="105" y="184" width="211" height="8" rx="4" fill="#26424e"/><rect x="105" y="184" width="49" height="8" rx="4" fill="url(#bar)"/><circle cx="154" cy="188" r="8" fill="#d9fff7"/>
+    <rect x="20" y="210" width="105" height="13" rx="6" fill="#15433e"/>
+    <text x="72" y="220" text-anchor="middle" fill="#8bf7d2" font-family="Arial,sans-serif" font-size="8" font-weight="700">SCHEDULE ACTIVE</text>
+  </g>
+  <text x="417" y="177" fill="#f3fbfd" font-family="Arial,sans-serif" font-size="17" font-weight="700">BRIGHTNESS</text>
+  <text x="417" y="201" fill="#7fece2" font-family="Arial,sans-serif" font-size="17" font-weight="700">CONTROL</text>
+  <text x="417" y="228" fill="#adc6cd" font-family="Arial,sans-serif" font-size="11">Windows 11 · Python</text>
+  <rect x="1" y="1" width="598" height="288" rx="19" fill="none" stroke="#67dfea" stroke-opacity=".28" stroke-width="2"/>
+</svg>
