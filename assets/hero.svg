@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
+  <title id="title">Gabriel Laurino — software developer</title>
+  <desc id="desc">Animated dark interface with cyan and mint light trails, introducing Gabriel Laurino and his work in software, automation and integrations.</desc>
+  <defs>
+    <linearGradient id="base" x2="1" y2="1">
+      <stop stop-color="#07131f"/>
+      <stop offset=".52" stop-color="#0b1b28"/>
+      <stop offset="1" stop-color="#071019"/>
+    </linearGradient>
+    <linearGradient id="cyan" x2="1" y2="0">
+      <stop stop-color="#5ae9f7"/>
+      <stop offset=".5" stop-color="#70f4d0"/>
+      <stop offset="1" stop-color="#67a7ff"/>
+    </linearGradient>
+    <radialGradient id="halo">
+      <stop stop-color="#1b8998" stop-opacity=".42"/>
+      <stop offset="1" stop-color="#1b8998" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" fill="none" stroke="#7de9eb" stroke-opacity=".055"/>
+    </pattern>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="5"/>
+    </filter>
+    <clipPath id="frame"><rect width="1200" height="430" rx="24"/></clipPath>
+  </defs>
+  <style>
+    @keyframes dash { to { stroke-dashoffset: -120; } }
+    @keyframes float { 50% { transform: translateY(-8px); } }
+    @keyframes blink { 50% { opacity: .25; } }
+    @keyframes pulse { 50% { opacity: .4; } }
+    .trail { animation: dash 9s linear infinite; }
+    .float { animation: float 7s ease-in-out infinite; }
+    .blink { animation: blink 2s steps(1,end) infinite; }
+    .pulse { animation: pulse 4s ease-in-out infinite; }
+    @media (prefers-reduced-motion: reduce) { .trail,.float,.blink,.pulse { animation: none; } }
+  </style>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="430" fill="url(#base)"/>
+    <rect width="1200" height="430" fill="url(#grid)"/>
+    <circle cx="1027" cy="188" r="340" fill="url(#halo)"/>
+    <circle cx="86" cy="397" r="180" fill="url(#halo)" opacity=".45"/>
+    <path d="M0 352C208 300 312 411 530 367S982 287 1200 339" fill="none" stroke="#5ae9f7" stroke-opacity=".16" stroke-width="2" stroke-dasharray="10 14" class="trail"/>
+    <path d="M0 370C208 318 312 429 530 385S982 305 1200 357" fill="none" stroke="#70f4d0" stroke-opacity=".1"/>
+
+    <g transform="translate(52 42)">
+      <rect width="200" height="32" rx="16" fill="#102c37" stroke="#52dfda" stroke-opacity=".35"/>
+      <circle cx="17" cy="16" r="4" fill="#70f4d0" class="pulse"/>
+      <text x="30" y="21" fill="#9fece2" font-family="Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="2">AVAILABLE TO BUILD</text>
+    </g>
+    <text x="52" y="145" fill="#a4c3d0" font-family="Arial,sans-serif" font-size="16" font-weight="700" letter-spacing="4">SOFTWARE DEVELOPER  /  CURITIBA, BR</text>
+    <text x="48" y="230" fill="#f5fbfd" font-family="Arial,sans-serif" font-size="76" font-weight="800" letter-spacing="-3">Gabriel</text>
+    <text x="48" y="307" fill="url(#cyan)" font-family="Arial,sans-serif" font-size="76" font-weight="800" letter-spacing="-3">Laurino<tspan class="blink" fill="#8ef9e9">_</tspan></text>
+    <text x="52" y="351" fill="#d0e3e8" font-family="Arial,sans-serif" font-size="19">I turn complex workflows into clear, dependable software.</text>
+    <text x="52" y="388" fill="#7f9daa" font-family="Arial,sans-serif" font-size="13" letter-spacing="2">BUILD  /  AUTOMATE  /  CONNECT</text>
+
+    <g class="float" transform="translate(754 44)">
+      <rect x="0" y="0" width="390" height="322" rx="21" fill="#081923" stroke="#5ad8de" stroke-opacity=".36"/>
+      <rect x="1" y="1" width="388" height="42" rx="20" fill="#102936"/>
+      <path d="M1 27V43H389V27" fill="#102936"/>
+      <circle cx="26" cy="22" r="5" fill="#ff7779"/>
+      <circle cx="44" cy="22" r="5" fill="#f3c873"/>
+      <circle cx="62" cy="22" r="5" fill="#73e0b5"/>
+      <text x="218" y="27" fill="#8aafbd" font-family="Consolas,monospace" font-size="12">gabriel@workspace</text>
+      <text x="27" y="84" fill="#70f4d0" font-family="Consolas,monospace" font-size="17">$</text>
+      <text x="53" y="84" fill="#d5eef1" font-family="Consolas,monospace" font-size="16">whoami</text>
+      <text x="27" y="120" fill="#9db9c5" font-family="Consolas,monospace" font-size="14">developer + problem solver</text>
+      <text x="27" y="165" fill="#70f4d0" font-family="Consolas,monospace" font-size="17">$</text>
+      <text x="53" y="165" fill="#d5eef1" font-family="Consolas,monospace" font-size="16">focus --now</text>
+      <text x="27" y="202" fill="#a9d7de" font-family="Consolas,monospace" font-size="14">[01] full-stack systems</text>
+      <text x="27" y="231" fill="#a9d7de" font-family="Consolas,monospace" font-size="14">[02] automation &amp; tooling</text>
+      <text x="27" y="260" fill="#a9d7de" font-family="Consolas,monospace" font-size="14">[03] enterprise integrations</text>
+      <path d="M27 283H361" stroke="#31525d"/>
+      <text x="27" y="305" fill="#69c8d2" font-family="Consolas,monospace" font-size="12">status: shipping ideas into reality</text>
+    </g>
+    <rect x="1" y="1" width="1198" height="428" rx="23" fill="none" stroke="url(#cyan)" stroke-opacity=".38" stroke-width="2"/>
+    <rect x="1" y="1" width="1198" height="428" rx="23" fill="none" stroke="url(#cyan)" stroke-opacity=".3" stroke-width="5" filter="url(#glow)"/>
+  </g>
+</svg>

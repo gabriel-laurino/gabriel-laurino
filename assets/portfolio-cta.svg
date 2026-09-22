@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 68" role="img" aria-labelledby="t d">
+  <title id="t">Explore the interactive portfolio</title>
+  <desc id="d">Cyan and mint call-to-action button.</desc>
+  <defs><linearGradient id="g"><stop stop-color="#56d9ec"/><stop offset=".6" stop-color="#73efd2"/><stop offset="1" stop-color="#8bd9fa"/></linearGradient></defs>
+  <rect width="460" height="68" rx="16" fill="url(#g)"/>
+  <rect x="4" y="4" width="452" height="60" rx="13" fill="none" stroke="#e6fffd" stroke-opacity=".35"/>
+  <text x="27" y="42" fill="#092331" font-family="Arial,sans-serif" font-size="21" font-weight="800">EXPLORE THE PORTFOLIO</text>
+  <path d="M403 22h24v24m0-24-28 28" fill="none" stroke="#092331" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
