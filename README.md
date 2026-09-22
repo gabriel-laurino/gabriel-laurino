@@ -60,20 +60,6 @@ These are public examples of my work. The [interactive portfolio](https://gaabel
 
 The activity visual is generated daily from the GitHub API and stored in this repository. It stays available even when a third-party image service is down. [See how it works](./scripts/render-activity.mjs).
 
-<details>
-  <summary><b>See the contribution animations</b></summary>
-  <br />
-  <div align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabriel-laurino/gabriel-laurino/output/github-snake-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabriel-laurino/gabriel-laurino/output/github-snake.svg" />
-      <img src="https://raw.githubusercontent.com/gabriel-laurino/gabriel-laurino/output/github-snake.svg" alt="Animated contribution snake" />
-    </picture>
-    <br />
-    <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="85%" alt="3D contribution graph" />
-  </div>
-</details>
-
 ## Tools I reach for
 
 | Software | Interfaces | Systems |
