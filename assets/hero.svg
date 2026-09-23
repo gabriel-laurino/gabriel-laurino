@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
   <title id="title">Gabriel Laurino — software developer</title>
-  <desc id="desc">Animated dark interface with cyan and mint light trails, introducing Gabriel Laurino and his work in software, automation and integrations.</desc>
+  <desc id="desc">Dark interface with cyan and mint details and a stationary software terminal with subtle cursor and status-light animations.</desc>
   <defs>
     <linearGradient id="base" x2="1" y2="1">
       <stop stop-color="#07131f"/>
@@ -26,14 +26,14 @@
   </defs>
   <style>
     @keyframes dash { to { stroke-dashoffset: -120; } }
-    @keyframes float { 50% { transform: translateY(-8px); } }
     @keyframes blink { 50% { opacity: .25; } }
     @keyframes pulse { 50% { opacity: .4; } }
+    @keyframes terminal-signal { 50% { opacity: .55; } }
     .trail { animation: dash 9s linear infinite; }
-    .float { animation: float 7s ease-in-out infinite; }
     .blink { animation: blink 2s steps(1,end) infinite; }
     .pulse { animation: pulse 4s ease-in-out infinite; }
-    @media (prefers-reduced-motion: reduce) { .trail,.float,.blink,.pulse { animation: none; } }
+    .terminal-signal { animation: terminal-signal 4.8s ease-in-out infinite; }
+    @media (prefers-reduced-motion: reduce) { .trail,.blink,.pulse,.terminal-signal { animation: none; } }
   </style>
   <g clip-path="url(#frame)">
     <rect width="1200" height="430" fill="url(#base)"/>
@@ -54,19 +54,19 @@
     <text x="52" y="351" fill="#d0e3e8" font-family="Arial,sans-serif" font-size="19">I turn complex workflows into clear, dependable software.</text>
     <text x="52" y="388" fill="#7f9daa" font-family="Arial,sans-serif" font-size="13" letter-spacing="2">BUILD  /  AUTOMATE  /  CONNECT</text>
 
-    <g class="float" transform="translate(754 44)">
+    <g transform="translate(754 44)">
       <rect x="0" y="0" width="390" height="322" rx="21" fill="#081923" stroke="#5ad8de" stroke-opacity=".36"/>
       <rect x="1" y="1" width="388" height="42" rx="20" fill="#102936"/>
       <path d="M1 27V43H389V27" fill="#102936"/>
       <circle cx="26" cy="22" r="5" fill="#ff7779"/>
       <circle cx="44" cy="22" r="5" fill="#f3c873"/>
-      <circle cx="62" cy="22" r="5" fill="#73e0b5"/>
+      <circle class="terminal-signal" cx="62" cy="22" r="5" fill="#73e0b5"/>
       <text x="218" y="27" fill="#8aafbd" font-family="Consolas,monospace" font-size="12">gabriel@workspace</text>
       <text x="27" y="84" fill="#70f4d0" font-family="Consolas,monospace" font-size="17">$</text>
       <text x="53" y="84" fill="#d5eef1" font-family="Consolas,monospace" font-size="16">whoami</text>
       <text x="27" y="120" fill="#9db9c5" font-family="Consolas,monospace" font-size="14">developer + problem solver</text>
       <text x="27" y="165" fill="#70f4d0" font-family="Consolas,monospace" font-size="17">$</text>
-      <text x="53" y="165" fill="#d5eef1" font-family="Consolas,monospace" font-size="16">focus --now</text>
+      <text x="53" y="165" fill="#d5eef1" font-family="Consolas,monospace" font-size="16">focus --now<tspan class="blink" fill="#70f4d0">_</tspan></text>
       <text x="27" y="202" fill="#a9d7de" font-family="Consolas,monospace" font-size="14">[01] full-stack systems</text>
       <text x="27" y="231" fill="#a9d7de" font-family="Consolas,monospace" font-size="14">[02] automation &amp; tooling</text>
       <text x="27" y="260" fill="#a9d7de" font-family="Consolas,monospace" font-size="14">[03] enterprise integrations</text>
