@@ -50,3 +50,7 @@ h1,h2,h3,p{margin-top:0}.hero h1{margin:31px 0 28px;font-size:clamp(70px,7.2vw,1
 .mini-window-title{display:flex;justify-content:space-between;align-items:center;font-size:14px}.mini-window-title span{color:#a7f7e4;font-size:24px;font-weight:800}
 .mini-window-sub{margin:0 0 13px}.slider-row{margin:8px 0}.slider-row label{width:57px}.slider-row b{width:29px;text-align:right}.schedule-pill{margin-top:7px}
 .version-tag{display:inline-block;vertical-align:middle;padding:5px 8px;border:1px solid rgba(126,239,218,.35);border-radius:8px;color:#8df4d9;font-family:Consolas,monospace;font-size:13px;letter-spacing:0;white-space:nowrap}
+.contact-email{display:flex;flex-direction:column;justify-content:center;gap:3px;min-height:54px;padding:9px 18px;border:1px solid rgba(124,231,220,.4);border-radius:12px;background:rgba(113,232,218,.1)}
+.contact-email span{color:#8fe7da;font-family:Consolas,monospace;font-size:10px;font-weight:800;letter-spacing:.12em;text-transform:uppercase}
+.contact-email strong{color:#e8fffa;font-size:14px;font-weight:750;overflow-wrap:anywhere;user-select:text}
+@media(max-width:440px){.contact-email{width:100%}}
