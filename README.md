@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(max-width: 700px)" srcset="./assets/hero-mobile.svg" />
-  <img src="./assets/hero.svg" width="100%" alt="Gabriel Laurino — software developer building full-stack systems, automation and enterprise integrations" />
+  <source media="(max-width: 700px)" srcset="./assets/hero-mobile.svg?v=20260922-1" />
+  <img src="./assets/hero.svg?v=20260922-1" width="100%" alt="Gabriel Laurino — software developer building full-stack systems, automation and enterprise integrations" />
 </picture>
 
 <br />
