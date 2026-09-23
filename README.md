@@ -37,9 +37,9 @@ Based in Curitiba, Brazil. Working with Python, Java, C#/.NET, web technologies 
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/gabriel-laurino/Brightness-Control-Application"><img src="./assets/project-brightness.svg" alt="Brightness Control Application visual" /></a>
-      <h3><a href="https://github.com/gabriel-laurino/Brightness-Control-Application">Brightness Control Application ↗</a></h3>
-      <p>A Windows desktop tool for adjusting SDR brightness on HDR displays, with schedules, Portuguese and English localization, and system tray controls.</p>
-      <p><code>Python</code> <code>Tkinter</code> <code>PowerShell</code></p>
+      <h3><a href="https://github.com/gabriel-laurino/Brightness-Control-Application/releases/tag/v2.0.1">Brightness Control Application v2.0.1 ↗</a></h3>
+      <p>A compact Windows tray app with a modern PySide6 interface, four scheduled brightness periods and safe simultaneous adjustment of active HDR displays. English schedules use AM/PM; SDR displays stay untouched.</p>
+      <p><code>Python</code> <code>PySide6</code> <code>PowerShell</code></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/gabriel-laurino/Ngrok_WebhookApp"><img src="./assets/project-webhook.svg" alt="Webhook Email Service visual" /></a>
@@ -64,7 +64,7 @@ The activity visual is generated daily from the GitHub API and stored in this re
 
 | Software | Interfaces | Systems |
 | :--- | :--- | :--- |
-| Python · Java · C#/.NET · JavaScript | HTML · CSS · Tkinter | Git · Docker · SQL · PowerShell · Linux |
+| Python · Java · C#/.NET · JavaScript | HTML · CSS · PySide6 | Git · Docker · SQL · PowerShell · Linux |
 
 I choose tools around the problem rather than collecting logos. More about my approach and projects is in the [portfolio](https://gaabel2.zapto.org/portfolio/). [GitHub Pages mirror](https://gabriel-laurino.github.io/gabriel-laurino/).
 
