@@ -1,31 +1,38 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 290" role="img" aria-labelledby="t d">
-  <title id="t">Brightness Control Application</title>
-  <desc id="d">Dark desktop interface with cyan brightness controls and a warm sun.</desc>
+  <title id="t">Brightness Control Application v2.0.1</title>
+  <desc id="d">Borderless tray app with four brightness periods and two active HDR displays.</desc>
   <defs>
-    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0a1827"/><stop offset="1" stop-color="#102837"/></linearGradient>
-    <linearGradient id="bar"><stop stop-color="#58dbed"/><stop offset="1" stop-color="#9af6c5"/></linearGradient>
-    <radialGradient id="sun"><stop stop-color="#ffdc88"/><stop offset=".56" stop-color="#ffbd76" stop-opacity=".7"/><stop offset="1" stop-color="#ffbd76" stop-opacity="0"/></radialGradient>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0a1827"/><stop offset="1" stop-color="#153843"/></linearGradient>
+    <linearGradient id="bar"><stop stop-color="#62dfec"/><stop offset="1" stop-color="#a0f7dc"/></linearGradient>
+    <radialGradient id="sun"><stop stop-color="#ffe5a5"/><stop offset=".42" stop-color="#f8c880" stop-opacity=".64"/><stop offset="1" stop-color="#f8c880" stop-opacity="0"/></radialGradient>
   </defs>
   <rect width="600" height="290" rx="20" fill="url(#bg)"/>
-  <circle cx="504" cy="58" r="125" fill="url(#sun)" opacity=".68"/>
-  <path d="M0 225C115 188 197 260 304 222S507 182 600 235" fill="none" stroke="#67dfea" stroke-opacity=".18" stroke-width="2"/>
-  <g transform="translate(28 27)">
-    <rect width="354" height="235" rx="17" fill="#071722" stroke="#6edfea" stroke-opacity=".3"/>
-    <rect width="354" height="34" rx="17" fill="#163041"/><path d="M0 17V34H354V17" fill="#163041"/>
-    <circle cx="22" cy="17" r="4" fill="#ff7779"/><circle cx="37" cy="17" r="4" fill="#eec675"/><circle cx="52" cy="17" r="4" fill="#74dbab"/>
-    <text x="20" y="68" fill="#eaf7fa" font-family="Arial,sans-serif" font-size="17" font-weight="700">Display brightness</text>
-    <text x="20" y="91" fill="#829faa" font-family="Arial,sans-serif" font-size="10" letter-spacing="1">HDR DISPLAY  /  SDR CONTENT</text>
-    <text x="20" y="123" fill="#c4d9e0" font-family="Arial,sans-serif" font-size="11">Morning</text>
-    <rect x="105" y="116" width="211" height="8" rx="4" fill="#26424e"/><rect x="105" y="116" width="141" height="8" rx="4" fill="url(#bar)"/><circle cx="246" cy="120" r="8" fill="#d9fff7"/>
-    <text x="20" y="157" fill="#c4d9e0" font-family="Arial,sans-serif" font-size="11">Evening</text>
-    <rect x="105" y="150" width="211" height="8" rx="4" fill="#26424e"/><rect x="105" y="150" width="92" height="8" rx="4" fill="url(#bar)"/><circle cx="197" cy="154" r="8" fill="#d9fff7"/>
-    <text x="20" y="191" fill="#c4d9e0" font-family="Arial,sans-serif" font-size="11">Night</text>
-    <rect x="105" y="184" width="211" height="8" rx="4" fill="#26424e"/><rect x="105" y="184" width="49" height="8" rx="4" fill="url(#bar)"/><circle cx="154" cy="188" r="8" fill="#d9fff7"/>
-    <rect x="20" y="210" width="105" height="13" rx="6" fill="#15433e"/>
-    <text x="72" y="220" text-anchor="middle" fill="#8bf7d2" font-family="Arial,sans-serif" font-size="8" font-weight="700">SCHEDULE ACTIVE</text>
+  <circle cx="510" cy="55" r="132" fill="url(#sun)" opacity=".72"/>
+  <path d="M0 226C111 184 194 262 304 221S497 179 600 235" fill="none" stroke="#79e7e7" stroke-opacity=".2" stroke-width="2"/>
+  <g transform="translate(25 19)">
+    <rect width="375" height="252" rx="20" fill="#0d212d" stroke="#6bdedc" stroke-opacity=".4"/>
+    <rect x="14" y="13" width="26" height="26" rx="8" fill="#9ef6df"/>
+    <text x="27" y="32" text-anchor="middle" fill="#10303b" font-family="Arial,sans-serif" font-size="20">☀</text>
+    <text x="50" y="24" fill="#e9fbf8" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1">BRIGHTNESS CONTROL</text>
+    <text x="50" y="36" fill="#8edbcf" font-family="Arial,sans-serif" font-size="8" letter-spacing="1">APPLICATION · v2.0.1</text>
+    <rect x="14" y="49" width="347" height="54" rx="13" fill="#173744" stroke="#80e5df" stroke-opacity=".4"/>
+    <text x="27" y="71" fill="#ecfbfa" font-family="Arial,sans-serif" font-size="14" font-weight="700">Evening</text>
+    <text x="27" y="89" fill="#a6c7ce" font-family="Arial,sans-serif" font-size="10">5 PM — 10 PM · 2 HDR active</text>
+    <text x="348" y="84" text-anchor="end" fill="#a7f7df" font-family="Arial,sans-serif" font-size="29" font-weight="700">30%</text>
+    <text x="16" y="124" fill="#93e8d9" font-family="Arial,sans-serif" font-size="9" font-weight="700" letter-spacing="1">YOUR DAY, FOUR MOMENTS</text>
+    <g fill="#d7eff0" font-family="Arial,sans-serif" font-size="11" font-weight="700">
+      <text x="18" y="149">Morning</text><text x="18" y="173">Afternoon</text><text x="18" y="197">Evening</text><text x="18" y="221">Night</text>
+    </g>
+    <g fill="#a3f4dc" font-family="Arial,sans-serif" font-size="10" font-weight="700" text-anchor="end">
+      <text x="352" y="149">30%</text><text x="352" y="173">50%</text><text x="352" y="197">30%</text><text x="352" y="221">60%</text>
+    </g>
+    <g fill="#335460"><rect x="112" y="143" width="190" height="5" rx="3"/><rect x="112" y="167" width="190" height="5" rx="3"/><rect x="112" y="191" width="190" height="5" rx="3"/><rect x="112" y="215" width="190" height="5" rx="3"/></g>
+    <g fill="url(#bar)"><rect x="112" y="143" width="57" height="5" rx="3"/><rect x="112" y="167" width="95" height="5" rx="3"/><rect x="112" y="191" width="57" height="5" rx="3"/><rect x="112" y="215" width="114" height="5" rx="3"/></g>
+    <g fill="#d8fff2"><circle cx="169" cy="145.5" r="6"/><circle cx="207" cy="169.5" r="6"/><circle cx="169" cy="193.5" r="6"/><circle cx="226" cy="217.5" r="6"/></g>
+    <text x="18" y="242" fill="#80b7bb" font-family="Arial,sans-serif" font-size="9">SDR monitors are not changed</text>
   </g>
-  <text x="417" y="177" fill="#f3fbfd" font-family="Arial,sans-serif" font-size="17" font-weight="700">BRIGHTNESS</text>
-  <text x="417" y="201" fill="#7fece2" font-family="Arial,sans-serif" font-size="17" font-weight="700">CONTROL</text>
-  <text x="417" y="228" fill="#adc6cd" font-family="Arial,sans-serif" font-size="11">Windows 11 · Python</text>
+  <text x="421" y="163" fill="#f1fbfa" font-family="Arial,sans-serif" font-size="18" font-weight="700">BRIGHTNESS</text>
+  <text x="421" y="187" fill="#8ff3d8" font-family="Arial,sans-serif" font-size="18" font-weight="700">CONTROL</text>
+  <text x="421" y="212" fill="#b5cdd2" font-family="Arial,sans-serif" font-size="11">HDR × 2 · Windows 11</text>
   <rect x="1" y="1" width="598" height="288" rx="19" fill="none" stroke="#67dfea" stroke-opacity=".28" stroke-width="2"/>
 </svg>
