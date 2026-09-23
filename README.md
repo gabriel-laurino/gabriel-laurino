@@ -14,7 +14,7 @@
 <p>
   <a href="https://www.linkedin.com/in/gabriel-laurino">LinkedIn</a>
   &nbsp;·&nbsp;
-  <a href="mailto:gabriel_laurino@outlook.com">Email</a>
+  <span>Email: gabriel_laurino@outlook.com</span>
   &nbsp;·&nbsp;
   <a href="https://github.com/gabriel-laurino?tab=repositories">Repositories</a>
 </p>
@@ -72,6 +72,6 @@ I choose tools around the problem rather than collecting logos. More about my ap
 
 ---
 
-**Have a process worth improving?** [Let's talk on LinkedIn](https://www.linkedin.com/in/gabriel-laurino) or [send me an email](mailto:gabriel_laurino@outlook.com).
+**Have a process worth improving?** [Let's talk on LinkedIn](https://www.linkedin.com/in/gabriel-laurino) or write to **gabriel_laurino@outlook.com**.
 
 </div>
